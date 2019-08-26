@@ -1,9 +1,9 @@
 # Tyler Jacobson - README
 
 
-![Overwatch](https://orepstatic.com/uploads/logo300/overwatch-68.jpg)
+![Overwatch](https://www.jinx.com/Content/responsive_themes/overwatch/ow_logo_white.png)
 
-https://orepstatic.com/uploads/logo300/overwatch-68.jpg
+https://www.jinx.com/Content/responsive_themes/overwatch/ow_logo_white.png
 
 
 ## Overwatch Roles
